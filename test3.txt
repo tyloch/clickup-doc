@@ -1,1 +1,2 @@
 a jak to zmapuje?
+Dadajemu clickup issue id tutaj przy commit
