@@ -1,0 +1,2 @@
+How to assosiate issue in github  with task in click up 
+For PR works but what about issues? 
